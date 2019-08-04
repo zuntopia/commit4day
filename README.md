@@ -4,8 +4,8 @@
 
 ## 2019-08
 - [190803 HA/DR](/201908/190803.md)
+- [190804 NoSQL](/201908/190804.md)
 
 ### ToDo
-0. SQL vs NoSQL
 1. Github page 연계
 2. \<today\>.md 파일이 자동으로 README 에 연결이 될까?
